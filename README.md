@@ -1,4 +1,4 @@
-# facial_recognition
+# Facial_recognition: Time research & innovation
 
 In recent years, artificial intelligence has been developing rapidly. Nowadays, it can be seen that the invention of the self-driving car or self-service supermarket has been introduced. Artificial
 intelligence is closely linked to computer vision. Humans utilise vision to adapt and understand the environments they are surrounded with, whilst computer vision works on duplication of human
