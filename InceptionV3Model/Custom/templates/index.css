@@ -1,0 +1,217 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  height:1024px;
+  min-width:200px;
+  max-width:1440px;
+  margin:auto;
+  background-color:#ffffff;
+  overflow:hidden;
+}
+.Frame-outer{
+  pointer-events:none;
+  z-index:2;
+}
+.navigation-top{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:0px;
+  width:1440px;
+  min-width:1440px;
+  height:84px;
+  margin-top:2px;
+  margin-bottom:938px;
+  min-height:84px;
+  overflow:hidden;
+}
+.navigation-top-outer{
+  pointer-events:none;
+  z-index:3;
+  position:relative;
+  display:flex;
+}
+.Copy-of-TRI-Logo-Wit{
+  position:relative;
+  z-index:6;
+  pointer-events:none;
+  margin-left:59px;
+  width:96px;
+  min-width:96px;
+  height:63px;
+  margin-top:20px;
+  margin-bottom:1px;
+  min-height:63px;
+  content:url(assets/images/Copy_of_TRI_Logo_With_White_background_1.png);
+}
+.Copy-of-TRI-Logo-Wit-outer{
+  pointer-events:none;
+  z-index:6;
+  position:relative;
+  display:flex;
+}
+.Welcome-to-Tri-Faici{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:198px;
+  width:1021px;
+  min-width:1021px;
+  margin-top:-64px;
+  margin-bottom:0px;
+  min-height:64px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(49, 39, 131, 1);
+  font-style:normal;
+  font-family:Inter;
+  font-weight:400;
+  font-size:48px;
+  line-height:59px;
+}
+.Welcome-to-Tri-Faici-outer{
+  pointer-events:none;
+  z-index:5;
+  position:relative;
+  display:flex;
+}
+.logo-with-text-calm{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:120px;
+  width:111px;
+  min-width:111px;
+  height:36px;
+  margin-top:-60px;
+  margin-bottom:24px;
+  min-height:36px;
+  overflow:hidden;
+}
+.logo-with-text-calm-outer{
+  pointer-events:none;
+  z-index:4;
+  position:relative;
+  display:flex;
+}
+.q1682Recognizedman--{
+  position:relative;
+  z-index:7;
+  pointer-events:none;
+  margin-left:0px;
+  width:1439px;
+  min-width:1439px;
+  height:918px;
+  margin-top:-918px;
+  margin-bottom:0px;
+  min-height:918px;
+  content:url(assets/images/_1682Recognizedman__Converted__1.png);
+}
+.q1682Recognizedman---outer{
+  pointer-events:none;
+  z-index:7;
+  position:relative;
+  display:flex;
+}
+.photo-upload{
+  position:relative;
+  z-index:8;
+  pointer-events:none;
+  margin-left:42px;
+  width:366px;
+  min-width:366px;
+  height:168px;
+  margin-top:-382px;
+  margin-bottom:214px;
+  min-height:168px;
+}
+.photo-upload-outer{
+  pointer-events:none;
+  z-index:8;
+  position:relative;
+  display:flex;
+}
+.photo-1{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:145px;
+  width:75px;
+  min-width:75px;
+  height:75px;
+  margin-top:37px;
+  margin-bottom:56px;
+  min-height:75px;
+  content:url(assets/images/photo_1.png);
+}
+.photo-1-outer{
+  pointer-events:none;
+  z-index:11;
+  position:relative;
+  display:flex;
+}
+.Upload-Your-Photo{
+  position:relative;
+  z-index:10;
+  pointer-events:none;
+  margin-left:50px;
+  width:266px;
+  min-width:266px;
+  margin-top:-46px;
+  margin-bottom:21px;
+  min-height:25px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:18px;
+  line-height:27px;
+}
+.Upload-Your-Photo-outer{
+  pointer-events:none;
+  z-index:10;
+  position:relative;
+  display:flex;
+}
+.Rectangle-8{
+  position:relative;
+  z-index:9;
+  pointer-events:none;
+  margin-left:0%;
+  width:100%;
+  height:100%;
+  margin-top:0%;
+  background-color:rgba(49, 39, 131, 1);
+  border-radius:10px;
+}
+.Rectangle-8-outer{
+  pointer-events:none;
+  z-index:9;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
